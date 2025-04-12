@@ -265,6 +265,8 @@ footer {
   .contact-us {
     width: 90%;
     padding: 30px 20px;
+    margin-top: 200px;
+    margin-bottom: 200px;
   }
 
   .contact-us input,

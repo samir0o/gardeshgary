@@ -242,6 +242,8 @@ footer {
   .intro {
     width: 90%;
     padding: 40px 20px;
+    margin-top: 299px;
+    margin-bottom: 299px;
   }
 
   .h1 {
